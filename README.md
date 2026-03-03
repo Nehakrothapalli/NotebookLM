@@ -63,7 +63,7 @@ CMD ["python", "app.py"]
 
 For a Space, the `runtime.txt` file pins the Python version to 3.12.18. Make sure to commit both `requirements.txt` and `runtime.txt` so the build uses the correct interpreter.
 
-Deployment examples:
+Deployment examples: h
 
 ```bash
 # build locally
