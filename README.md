@@ -2,7 +2,7 @@
 title: NotebookLM Clone (GPP1)
 emoji: 📓
 colorFrom: blue
-colorTo: pink
+colorTo: pinknnnnn
 sdk: gradio
 sdk_version: "4.44.1"
 app_file: app.py
