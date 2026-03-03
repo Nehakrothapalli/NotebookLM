@@ -1,0 +1,6 @@
+data/
+GPP1/
+__pycache__/
+*.pyc
+.env
+.DS_Store

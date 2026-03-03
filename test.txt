@@ -1,0 +1,3 @@
+NotebookLM Clone Test
+RAG stands for Retrieval Augmented Generation.
+ChromaDB is a vector database used for similarity search.

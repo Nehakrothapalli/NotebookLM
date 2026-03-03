@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+checking if git works
+=======
+testing push
+>>>>>>> 805fa03 (testing push)
